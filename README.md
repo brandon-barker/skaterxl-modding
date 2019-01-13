@@ -4,7 +4,7 @@
 
 ## XLShredBrakeForce
 
-Adjust braking force with Home/End buttons
+Adjust braking force with Home/End or Left/Right Bracket buttons
 
 ### Download
 
