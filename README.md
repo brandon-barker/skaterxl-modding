@@ -8,7 +8,7 @@ Adjust braking force with Home/End buttons
 
 ### Download
 
-https://github.com/brandon-barker/skaterxl-modding/releases/download/v0.0.2/XLShredBrakeForce-0.0.2.zip
+https://github.com/brandon-barker/skaterxl-modding/releases/download/v0.0.3/XLShredBrakeForce-0.0.3.zip
 
 ### Installation
 
